@@ -1,4 +1,4 @@
-# Linux-IPC-Message-Queues
+![Screenshot 2025-04-18 225101](https://github.com/user-attachments/assets/b78bed1c-8f5e-4629-9b66-e26eb3984e05)# Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
 # AIM:
@@ -87,7 +87,8 @@ int main()
 
 ## OUTPUT
 
-![Uploading Screenshot 2025-04-18 225101.png…]()
+![Screenshot 2025-04-18 225101](https://github.com/user-attachments/assets/ccedeb6d-04e1-4b03-821e-d47bb00b035c)
+
 
 
 
